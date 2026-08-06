@@ -1,2 +1,0 @@
-# NorthPeak Digital
-Starter project.
